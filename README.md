@@ -1,6 +1,5 @@
 # Basic-Math-Programme-Practice
 编程实现向量和矩阵
-
 ##20190619
 ----
     1.实现向量和矩阵的基本运算库.
@@ -10,3 +9,4 @@
       Assertion failed: Assertion failed on expression: 'CompareApproximately(SqrMagnitude(result), 1.0F)'
       UnityEngine.Quaternion:Euler(Single, Single, Single)
       Test:Update() (at Assets/Test.cs:56)
+     
